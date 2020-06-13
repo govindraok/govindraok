@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/govindraok/govindraok.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am Govinda Rao, working as Lead Senior Engineer at Qualcomm Bangalore. I am working on Display Driver Development for Linux kernel. You can use the [editor on GitHub](https://github.com/govindraok/govindraok.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
